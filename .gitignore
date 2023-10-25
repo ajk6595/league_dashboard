@@ -1,0 +1,12 @@
+# R & RStudio files
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Mac-related files
+*.DS_Store
+
+# R Environment Variables
+.Renviron
